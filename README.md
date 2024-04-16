@@ -1,4 +1,3 @@
 # git_test
-Hey i'm trying something
-Hello Odin!
-This is my first repo
+I am testing how to commit a modification of a file.
+This is my first repo!
